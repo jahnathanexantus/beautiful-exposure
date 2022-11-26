@@ -1,4 +1,4 @@
-
+import React from "react";
   import Carousel from 'react-bootstrap/Carousel';
   import Video1 from '../Images/Video1.mp4';
   import Video2 from '../Images/Video2.mp4';
