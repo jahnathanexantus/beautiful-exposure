@@ -16,7 +16,7 @@ const showNavbar = () => {
       <nav ref={navRef}>
       <a href="/">Home</a>
       <a href='/AboutUs'>About Beautiful Exposure</a>
-        <a href="/ContactInfo">Contact</a>
+        <a href="https://dashing-frangollo-f5e047.netlify.app/ContactInfo">Contact</a>
         
        
         {/* <a href='/#'>contact</a> */}
